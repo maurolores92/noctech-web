@@ -1,0 +1,39 @@
+{
+  "site": {
+    "title": "Noctech",
+    "base_url": "https://app.noctech.online",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo1": "/images/logo1.png",
+    "logo_width": "200",
+    "logo_height": "38",
+    "logo_text": "Noctech"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Empezamos",
+    "link": "https://app.noctech.online"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "La Herramienta Esencial para Administradores de Redes",
+    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+  },
+
+  "metadata": {
+    "meta_author": "Themefisher",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "astro boilerplate"
+  }
+}
