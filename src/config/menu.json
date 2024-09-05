@@ -36,11 +36,11 @@
       "menu": [
         {
           "text": "Caracteristicas",
-          "url": "#"
+          "url": "#caracteristicas"
         },
         {
           "text": "Servicios",
-          "url": "#"
+          "url": "#servicios"
         },
         {
           "text": "Precios",
